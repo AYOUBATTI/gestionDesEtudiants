@@ -40,6 +40,8 @@ public class notifActivity2 extends IntentService {
         RemoteViews customLayout = new RemoteViews(getPackageName(), R.layout.activity_notif2);
         builder.setContent(customLayout);
 
+
+
         // Affichez la notification
         NotificationManagerCompat notificationManager = NotificationManagerCompat.from(this);
         if (ActivityCompat.checkSelfPermission(this, Manifest.permission.WAKE_LOCK) != PackageManager.PERMISSION_GRANTED) {
