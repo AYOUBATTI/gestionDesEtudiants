@@ -61,7 +61,6 @@ public class notifActivity2 extends IntentService {
 
 
 
-
     // Créez le canal de notification pour Android O et versions ultérieures
     private void createNotificationChannel() {
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
