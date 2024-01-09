@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.GestionDesEtudiants" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here.Theme.AppCompat.Light.NoActionBar     -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+
+        <item name="colorPrimary">@color/my_primary</item>
+        <item name="colorPrimaryVariant">@color/my_primary</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/my_secondary</item>
+        <item name="colorSecondaryVariant">@color/my_secondary</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+        <!-- Secondary brand color. -->
+        <item name="android:statusBarColor">@color/my_primary</item>
+    </style>
+
+    <style name="Theme.GestionDesEtudiants" parent="Base.Theme.GestionDesEtudiants" />
+</resources>

@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "105533332180",
+    "firebase_url": "https://etudiant-762b0-default-rtdb.firebaseio.com",
+    "project_id": "etudiant-762b0",
+    "storage_bucket": "etudiant-762b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105533332180:android:29d95040a9cfacf60cb941",
+        "android_client_info": {
+          "package_name": "com.example.gestiondesetudiants"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALrecbc-ZrN8m4SPUgh7fkcSooXWoqhLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105533332180:android:4740b3d9f1b300810cb941",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALrecbc-ZrN8m4SPUgh7fkcSooXWoqhLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
